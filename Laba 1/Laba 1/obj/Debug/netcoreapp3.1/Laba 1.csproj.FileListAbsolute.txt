@@ -1,0 +1,46 @@
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.exe
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.deps.json
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.runtimeconfig.json
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.runtimeconfig.dev.json
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.dll
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.pdb
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csprojAssemblyReference.cache
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba_1.Form1.resources
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.GenerateResource.cache
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.AssemblyInfoInputs.cache
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.AssemblyInfo.cs
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.CoreCompileInputs.cache
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.dll
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.pdb
+D:\УЧЕБА 4 СЕМ\ООП\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.genruntimeconfig.cache
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.exe
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.deps.json
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.runtimeconfig.json
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.runtimeconfig.dev.json
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.dll
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.pdb
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba_1.Form1.resources
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.GenerateResource.cache
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.AssemblyInfoInputs.cache
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.AssemblyInfo.cs
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.CoreCompileInputs.cache
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.dll
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.pdb
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.genruntimeconfig.cache
+C:\ALINA\Term4\ООП\OOP-Labs-4sem\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csprojAssemblyReference.cache
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.exe
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.deps.json
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.runtimeconfig.json
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.runtimeconfig.dev.json
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.dll
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.pdb
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.GenerateResource.cache
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.AssemblyInfoInputs.cache
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.AssemblyInfo.cs
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.CoreCompileInputs.cache
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.dll
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.pdb
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.genruntimeconfig.cache
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.AssemblyReference.cache
+E:\4 семестр\ООП\LR\Laba 1\Laba 1\obj\Debug\netcoreapp3.1\Laba_1.Form.resources
